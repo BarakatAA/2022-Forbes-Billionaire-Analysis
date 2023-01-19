@@ -1,4 +1,5 @@
 # 2022-Forbes-Billionaire-Analysis
+This is an analysis of the Forbes Billionaire list for 2022.
 ------
 # Project Overview
 
